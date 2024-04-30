@@ -1,13 +1,13 @@
 Hello, welcome! My name is Vitor Luis, I'm 18 years old and I live in Tatuí-SP.
 
 Technologies and Tools: 
-- Html5 
-- CSS3 
-- Git 
-- Github
+Html5 
+CSS3 
+Git 
+Github
 
 Studying:
-- JavaScript
+JavaScript
 
 <div>
   
